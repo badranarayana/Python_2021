@@ -1,0 +1,5 @@
+name, location
+badra,hyderabad
+mani,banagalore
+raja,sec
+satya,vizag
